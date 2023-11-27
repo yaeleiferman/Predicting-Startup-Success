@@ -1,7 +1,7 @@
 # Predicting Startup Success
 
 ## Problem Area and Approach:
-The goal is to predict the success of any given startup company. The challenge is that finding data on any private company can be difficult, especially a company in the first stages of operations. Therefore, I'd like to use a couple novel methods to tackle this problem. Specifically, I want to analyze companies' descriptions to see if they produce more accurate or robust machine learning models, and likewise I'd like to use companies' logos if possible. I'll also be using more conventional data, such as category tags (i.e. the industry), location, and important dates for the companies.
+The goal is to predict the success of any given startup company. The challenge is that finding data on any private company can be difficult, especially a company in the first stages of operations. Therefore, I'd like to use a couple novel methods to tackle this problem. Specifically, I want to analyze companies' descriptions to see if they produce more accurate or robust machine learning models. I'll also be using more conventional data, such as category tags (i.e. the industry), location, and important dates for the companies.
 
 ## Impact:
 The results of this analysis would be most obviously useful for investors and startup companies. Investors could more selectively decide where to invest their money, and startups could position themselves to have a better chance of succeeding (assuming the model can predict success with any amount of accuracy).
