@@ -1,0 +1,4 @@
+.DS_Store
+.ipynb_checkpoints/*
+YCombinatorFiles/lexvec-wikipedia-word-vectors
+YCombinatorFiles/lexvec.commoncrawl.300d.W.pos.vectors
